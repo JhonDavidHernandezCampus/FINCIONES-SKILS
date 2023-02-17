@@ -34,12 +34,6 @@ j=0
 pos=marSalto.index(salMayor())
 print(f'\tLa persona ganadora es {nomAtletas[pos]}\n\t Se lleva la medalla de ORO ')
 if salMayor() > rec:
-    print(f'\tY se lleva 500 millones por romper el recor') 
+    print(f'\tY se lleva 500 millones por romper el record') 
 else:
     print(f'\tLa competidora gano pero no supero el record')
-
-
-
-
-
-
